@@ -1,2 +1,2 @@
 # product-redesigns
-place to throw my product redesign ideas out 
+running journal of thoughts and ideas i have while using products everyday
