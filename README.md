@@ -1,5 +1,3 @@
-# product-journal
-running journal of thoughts and ideas i have while using products everyday
+# marginalia
+idea for collaborative annovation on word-based documents (articles, research, etc.) in discord. 
 
-
-will be adding work soon
