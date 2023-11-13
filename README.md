@@ -1,3 +1,3 @@
 # marginalia
-idea for collaborative annovation on word-based documents (articles, research, etc.) in discord. 
+idea for collaborative annotation on word-based documents (articles, research, etc.) in discord. 
 
